@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1524346191 source:c:\users\jordy\dropbox\programação avançada\unidade2\tratamentopoligonos\main.cpp
+	<iostream>
+	"Ponto.h"
+	"Poligono.h"
+	"Retangulo.h"
+
+1524503402 c:\users\jordy\dropbox\programação avançada\unidade2\tratamentopoligonos\ponto.h
+
+1524503515 c:\users\jordy\dropbox\programação avançada\unidade2\tratamentopoligonos\poligono.h
+	"Ponto.h"
+
+1524405584 c:\users\jordy\dropbox\programação avançada\unidade2\tratamentopoligonos\retangulo.h
+	"Poligono.h"
+
+1524405847 source:c:\users\jordy\dropbox\programação avançada\unidade2\tratamentopoligonos\poligono.cpp
+	<iostream>
+	<cmath>
+	"Ponto.h"
+	"Poligono.h"
+
+1524405651 source:c:\users\jordy\dropbox\programação avançada\unidade2\tratamentopoligonos\ponto.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+	"Ponto.h"
+
+1524325040 source:c:\users\jordy\dropbox\programação avançada\unidade2\tratamentopoligonos\retangulo.cpp
+	"Ponto.h"
+	"Poligono.h"
+	"Retangulo.h"
+
