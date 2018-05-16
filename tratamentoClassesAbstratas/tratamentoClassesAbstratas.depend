@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1526231538 source:c:\users\jordy\dropbox\programação avançada\tratamentoclassesabstratas\circulo.cpp
+	<iostream>
+	<cmath>
+	"circulo.h"
+
+1526231233 c:\users\jordy\dropbox\programação avançada\tratamentoclassesabstratas\circulo.h
+	"figuraGeometrica.h"
+
+1526231021 c:\users\jordy\dropbox\programação avançada\tratamentoclassesabstratas\figurageometrica.h
+	"screen.h"
+
+1526234161 c:\users\jordy\dropbox\programação avançada\tratamentoclassesabstratas\screen.h
+	<vector>
+	<fstream>
+
+1526231000 source:c:\users\jordy\dropbox\programação avançada\tratamentoclassesabstratas\figurageometrica.cpp
+	"figurageometrica.h"
+
+1526231633 source:c:\users\jordy\dropbox\programação avançada\tratamentoclassesabstratas\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	"figuraGeometrica.h"
+	"circulo.h"
+	"reta.h"
+	"retangulo.h"
+
+1526231244 c:\users\jordy\dropbox\programação avançada\tratamentoclassesabstratas\reta.h
+	"figuraGeometrica.h"
+
+1526231251 c:\users\jordy\dropbox\programação avançada\tratamentoclassesabstratas\retangulo.h
+	"figuraGeometrica.h"
+
+1525634193 source:c:\users\jordy\dropbox\programação avançada\tratamentoclassesabstratas\reta.cpp
+	<iostream>
+	"reta.h"
+
+1526235617 source:c:\users\jordy\dropbox\programação avançada\tratamentoclassesabstratas\retangulo.cpp
+	<iostream>
+	"retangulo.h"
+
+1526234209 source:c:\users\jordy\dropbox\programação avançada\tratamentoclassesabstratas\screen.cpp
+	"screen.h"
+	<vector>
+
